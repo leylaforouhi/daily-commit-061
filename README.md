@@ -1,4 +1,4 @@
-def power(base, exponent):
+def power(base, exponen):
     return base ** exponent
 
 if __name__ == "__main__":
